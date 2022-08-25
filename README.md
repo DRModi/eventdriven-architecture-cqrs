@@ -1,6 +1,10 @@
 # event-driven-architecture-cqrs
 Demonstrated Event Driven Architecture! Implemented CQRS &amp; Event Sourcing with Apache Kafka.
 
+## Architecture Diagram Overview:
+
+![CQRS-Architecture+Overview drawio](https://user-images.githubusercontent.com/30615418/186758121-ffa0796a-53ec-493c-bef2-811f3c70cabc.png)
+
 
 ## CQRS:
 - It is software design pattern that stands for "Command Query Responsibility Segregation". It suggest 
